@@ -23,3 +23,6 @@ https://www.youtube.com/embed/lT6KsHDWqW8
 
 Um pouco de ViewModel
 https://www.youtube.com/embed/fl5KgvEZDdQ
+
+Finalizando nosso App
+https://www.youtube.com/embed/0kWNS4-ZpAo
