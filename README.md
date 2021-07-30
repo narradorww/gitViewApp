@@ -20,3 +20,6 @@ https://www.youtube.com/embed/sDcCJSfz_OA
 
 Criando o Domain: 
 https://www.youtube.com/embed/lT6KsHDWqW8
+
+Um pouco de ViewModel
+https://www.youtube.com/embed/fl5KgvEZDdQ
